@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.49.6](https://github.com/zone-eu/wildduck/compare/v1.49.5...v1.49.6) (2026-07-27)
+
+
+### Bug Fixes
+
+* ZMS-52: Add prometheus support ([#1093](https://github.com/zone-eu/wildduck/issues/1093)) ([5cce359](https://github.com/zone-eu/wildduck/commit/5cce359d2da8808eb4548c75bb944561c5dc33ba))
+
 ## [1.49.5](https://github.com/zone-eu/wildduck/compare/v1.49.4...v1.49.5) (2026-07-22)
 
 
